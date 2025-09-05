@@ -166,7 +166,7 @@ const mensajes = [
   "Mi Feita Linda 🌸, eres la única que logra que hasta mis enojos duren poquito 😂❤️.",
   "Bebé Hermosha 💖, gracias por 7 años de amor, locuras y recuerdos inolvidables ✨.",
   "Cuchisita Hermosha 💫, a tu lado descubrí que el tiempo pasa volando cuando uno es feliz 🕊️.",
-  "Mi Horrosa Linda 🌙, contigo todo tiene sentido, incluso los días más simples 💕.",
+  "Mi Horrorosa Linda 🌙, contigo todo tiene sentido, incluso los días más simples 💕.",
   "Mi Bebita Preshiosha 😍, no sé cómo lo haces, pero cada día me enamoro más 🌹.",
   "Cuchisita Hermosha 🥰, después de 7 años aún me haces sentir que estoy soñando 💭❤️.",
   "Mi Feita Presiosa ✨, gracias por ser mi locura favorita y mi paz al mismo tiempo 🌸.",

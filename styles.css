@@ -1103,6 +1103,16 @@ audio {
   @keyframes fall {
     to { transform: translateY(110vh) rotate(25deg); opacity: 0; }
   }
+  #game-container {
+    margin: 20px auto;
+    max-width: 820px;
+  }
+  
+  #gameCanvas {
+    background-color: #fefefe;
+    border: 2px solid #ff69b4;
+    border-radius: 10px;
+  }
   
   
   
